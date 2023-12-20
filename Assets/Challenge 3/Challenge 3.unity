@@ -436,7 +436,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.6
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -971,7 +971,7 @@ Transform:
   m_GameObject: {fileID: 1292757554}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.04, y: 0, z: 0.33174706}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1009,7 +1009,6 @@ MonoBehaviour:
   floatForce: 40
   explosionParticle: {fileID: 1171260740}
   fireworksParticle: {fileID: 66121944}
-  playerAudio: {fileID: 0}
   moneySound: {fileID: 8300000, guid: af9f934eb4288464eb120a5857921cc3, type: 3}
   explodeSound: {fileID: 8300000, guid: 774ebc5c074ce4695b7cc310fbd44087, type: 3}
   bounceSound: {fileID: 8300000, guid: ccb9b31174a3a43709a113a9c7cf4252, type: 3}
